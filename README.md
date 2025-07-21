@@ -4,7 +4,7 @@ A Python script that uses the Fernet library to encrypt/decrypt a simple file
 <em><strong> USAGE: </strong></em><br><br>
 &nbsp; python file_cryptography.py [param]
 <br><br>
-<em><strong> Param: </strong></em> <br>
+<em><strong> Param: </strong></em><br><br>
 
 1 - To encrypt the file: encrypt <br>
 
